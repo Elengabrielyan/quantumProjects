@@ -1,0 +1,40 @@
+Contributors: Elen Gabrieyan & Ruben Gevorgyan
+
+
+In this activity you will respond to four questions. Please read the directions below carefully and complete the assignment in full.
+
+Remember that to respond to the questions you should consider a functional quantum computer, defined as satisfying the following requirements:
+It can solve a problem more efficiently than a classical computer (e.g., quantum supremacy)
+It can solve a meaningful problem (i.e., not a toy problem)
+
+Choose a qubit modality that you think will be the first one in supporting a functional quantum computer. You can find about different qubit modalities in the handbook, Chapter 3.
+
+
+1. Which modality do you think would be the first to support a functional quantum computer?
+Respond to questions 1 and 2 (300 words each)
+1.1 Why do you think your chosen modality will be the first one in supporting a functional quantum computer? Compare at least three modalities.
+1.2 Think about the second modality that might be also a good candidate and answer the same as above.
+First of all I want to discuss 3 modalities that in my opinion are going to be more or less dominant, in the quantum computing future. These are superconducting qubits, trapped ions and linear optics quantum computing. I Want to talk about them in this specific order as I believe that the biggest future is behind superconducting qubits.This modality holds  a promise for the longer-term goal of building large scale and error free quantum computers. While continued work on many aspects of this technology is certainly necessary, the pace of both conceptual and technical progress in the last years has been immersive.The fact that quantum computer should be scalable the superconducting qubits offer a lot of positive  stats, and also they starting to make much more progress in fulfilling DiVincenzo criteria.
+Second one is trapped ions. Promising schemes in development to scale the system to arbitrarily large numbers of qubits made trapped ions one of the main approaches of creating quantum computers. Trapped ions' main scheme is transporting ions to spatially distinct locations in an array of ion traps, building large entangled states with photonically connected networks of  remotely connected ios, and combinations of these two ideas. This and also  the fact that ,as superconducting qubits, trapped ions are progressing in DiVincenzo criteria fulfillment,  is why they are having a very big popularity and are one of favorites in terms of building large scale quantum computers,
+And  a third one is linear optical quantum computing,  where the activeness or absence of a photon comprises the qubit. Quantum data is prepared utilizing linear optical parts. Viable non-direct instructions are accomplished using single photon sources, photo-detectors, and so forth.The primary issue with linear optical quantum computing is that it's extremely difficult to make photons interact with each other.
+
+
+2. When do you think the first functional quantum computer will be created?
+Respond to questions 3 and 4 (300 words each)
+3.Why do you think it will take the time that you chose to create the first functional quantum computer? Argue at least two reasons.
+
+First of all let me state that there are several important factors for creating a fully functional quantum computer.
+1. Well-characterized quantum two-level systems that can be employed as qubits.
+2. An ability to initialize the qubits.
+3. A set of quantum operations on the qubits, known as “quantum gates,” that is universal for
+quantum computation.
+4. An ability to measure quantum bits one by one, without disturbing the others.
+5. Decoherence times that are long enough to be able to carry out the computation or error
+6. Ability to interconvert stationary and flying qubits
+7. Ability to transmit flying qubits faithfully between two locations
+First of all we need a system where our qubits can be measured and kept. But for that we need a system with around -273 Celsius degree, so that we can stabilize our qubit and measure it. Keeping that degree constantly so that we can measure our qubit constantly is very hard, and a pricey task. Secondly it is very important to understand that if we are planning to make commercial computers, we will need millions of qubits, we can  have physical systems that are a few hundred to a thousand qubits, however, it’s unclear exactly what types of software or applications that we’ll be able to run. There are two paths for growing the size of the system: One is to add more qubits, which would take up more physical space which can cause problems if we are talking and considering 1 million qubit computers..The other path is to shrink the inner dimensions of the integrated circuit, but that approach is unlikely with a superconducting system.  The other path is to shrink the inner dimensions of the integrated circuit, but that approach is unlikely with a superconducting system, which tends to be large. So that’s why I think we should not concentrate on making the quantum system scalable, but we should take a scalable process — silicon manufacturing — and make it quantum. Also Since quantum programs are different from programs for classical computers, research and development is needed to further develop the software tool stack. Because these software tools drive the hardware, contemporaneous development of the hardware and software tool chain will shorten the development time for a useful quantum computer. In fact, using early tools to complete the end-to-end design (application design to final results) helps elucidate hidden issues and drives toward designs with the best chance for overall success, an approach used in classical computer design. I believe considering that technology is growing exponentially, in around 20-25 years we can have scalable and ready for use computers. 
+
+
+4. Think about the time frame of the second modality that might also be a good candidate. Argue at least two reasons.
+We made a long point in the last question because we believe it will affect any kind of quantum computer and it is general issue, however concerning our chosen   2nd modality, trapped ions, we will discuss modal specific issues. FIrst of all there decoherence in the ion trap system. Decoherence in the ion trap system can probably be substantially reduced over what has been obtained in experiments so far. How far this reduction can be carried is an issue which must be resolved experimentally.Also there is another issue. Rabi rate for any operation is limited to approximately the motional frequency. An obvious direction to pursue is to make smaller traps with higher trapping potentials; however, this aggravates the problem of addressability, and will increase the coupling of the ions to the electrodes thereby increasing decoherence Thus taking that all into account we can state that these are mostly ion trap specific issues which should be solved to create first quantum computer. In my opinion those issues may be solved after a big step up of science not only in quantum computing field but also overall. Thus we can approximate around 25-30 years, so that the science and technology we be enough developed to create mass production for quantum computers.
+
