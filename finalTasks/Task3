@@ -1,0 +1,24 @@
+Contributors: Elen Gabrielyan & Ruben Gevorgyan
+
+In this activity, you will read an article, submit a written response. Please read the directions below carefully and complete the assignment in full. 
+
+There are two alternatives to answer the questions. You can either read the paper Challenging Local Realism with Human Choices or visit the website thebigbelltest.org. You will find the same information in both alternatives. However, we encourage you to read the paper and check the website, or explore all the sections of the website and scan the paper. We also encourage you to play the Big Bell Test Game. 
+https://arxiv.org/abs/1805.04431
+https://museum.thebigbelltest.org/quest/
+
+Prepare a response for each of the following prompts below (300-500 words overall). 
+1: There is a whole scientific community interested in providing an indisputable proof that nature violates Bell's inequality. Explain why the Big Bell Test assures that they closed all the loopholes and what does it imply for our understanding of the universe.
+
+John Bell,changed Einstein's vision  of realism and now it is called “local realism.” With this mathematical description, he proved that Einstein’s view is incompatible with quantum mechanics. That means that there are experiments for which quantum mechanics gives one prediction which contradicts Einstein's prediction Bell’s work thus made it possible to test in the laboratory what had previously been a philosophical question. he Bell inequality must be satisfied by mutual cross-correlations of these data. This leads to the ultimate loophole in the Bell theorem: mutual cross-correlations of measured or predicted quantum data for three/four  variables must  satisfy a Bell inequality.At the same time  there exists  freedom of choice loophole which states that “the variables a and b can be considered as free or random” and if the setting choices “are truly free or random, they are not influenced by the hidden variables. Then the resultant values for a and b do not give any information about λ” . That’s why Big Bell Tests aims to get rid of freedom of choice loophole to support Bell’s  vision and push forward quantum mechanics.
+
+
+
+2: Gamification is a powerful tool that can be used in several contexts, such as marketing and generation of products. Explain how The Big Bell Test experiment utilized gamification for generating random numbers and imagine and discuss other possible applications of gamification in quantum computing.
+
+Gamification is a very good mechanism not only in marketing but also in collecting data. Using gamification we can gather useful information, without our participant knowing about it. It gives us a better understanding of his/her real thought because if he/she knew about the experiment the outcome may differ. The same technique is implemented in the Big Bell Test Game. Participants played in 2 steps, in first one they inputted bits as fast as they could , and then they played a little predicting game. Each human-generated bit used in the experiment was thus the result of a unique and conscious decision process and that’s why it was a completely random generated number. The Gamification method will be useful for quantum computing as there  are a lot of details, and theories that should be somehow tested. And gamification gives us opportunity to have a very big pool of random data, as then analyse it.
+
+
+3: Choose two of the thirteen nodes of the Big Bell Test experiment and compare their physical system, degree of freedom measured, rate of bits consumed and total number of bits, how where the bits used, how long the experiment took, and the distance between Alice and Bob.
+
+
+See the chart here: https://docs.google.com/document/d/1JWy6PvbfZoI2QLepIFQaGJP-fdWafXu85dgqf7dpkwg/edit?usp=sharing
